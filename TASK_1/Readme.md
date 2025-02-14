@@ -41,7 +41,7 @@ Ensure you have the following installed:
 Run the script to process and store the data:
 
 ```sh
-python process_data.py
+python load_to_ongo.py
 ```
 
 ## Data Cleaning Steps
