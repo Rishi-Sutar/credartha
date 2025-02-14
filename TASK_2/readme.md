@@ -40,7 +40,7 @@ The dataset is expected to be stored at `data/synthetic_transactions.csv` and sh
 Run the following command to train the model and save it:
 
 ```bash
-python train.py
+python nlp_based_transaction.py
 ```
 
 This will:
