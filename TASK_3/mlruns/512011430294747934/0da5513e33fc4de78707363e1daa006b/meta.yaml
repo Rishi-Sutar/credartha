@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Projects/credartha/TASK_3/mlruns/512011430294747934/0da5513e33fc4de78707363e1daa006b/artifacts
+end_time: 1739444006770
+entry_point_name: ''
+experiment_id: '512011430294747934'
+lifecycle_stage: active
+run_id: 0da5513e33fc4de78707363e1daa006b
+run_name: Best Model Selection
+run_uuid: 0da5513e33fc4de78707363e1daa006b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739444000220
+status: 3
+tags: []
+user_id: Richie

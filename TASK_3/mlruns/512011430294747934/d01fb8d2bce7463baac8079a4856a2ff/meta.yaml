@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Projects/credartha/TASK_3/mlruns/512011430294747934/d01fb8d2bce7463baac8079a4856a2ff/artifacts
+end_time: 1739446832982
+entry_point_name: ''
+experiment_id: '512011430294747934'
+lifecycle_stage: active
+run_id: d01fb8d2bce7463baac8079a4856a2ff
+run_name: Neural Network (RandomizedSearch)
+run_uuid: d01fb8d2bce7463baac8079a4856a2ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739446818815
+status: 3
+tags: []
+user_id: Richie

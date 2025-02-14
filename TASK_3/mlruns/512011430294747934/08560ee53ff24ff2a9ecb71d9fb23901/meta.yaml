@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Projects/credartha/TASK_3/mlruns/512011430294747934/08560ee53ff24ff2a9ecb71d9fb23901/artifacts
+end_time: 1739446818787
+entry_point_name: ''
+experiment_id: '512011430294747934'
+lifecycle_stage: active
+run_id: 08560ee53ff24ff2a9ecb71d9fb23901
+run_name: Random Forest (RandomizedSearch)
+run_uuid: 08560ee53ff24ff2a9ecb71d9fb23901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739446810395
+status: 3
+tags: []
+user_id: Richie
