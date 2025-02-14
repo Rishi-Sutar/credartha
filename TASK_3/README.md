@@ -1,6 +1,3 @@
-Here’s the full `README.md` in markdown format for easy copying:
-
-```markdown
 # Credit Risk Classifier
 
 ## Overview
@@ -54,7 +51,6 @@ See `requirements.txt` for all required libraries:
 - `mlflow`
 - `pandas`
 - `numpy`
-- `shap`
 
 ## Usage
 
@@ -62,9 +58,3 @@ See `requirements.txt` for all required libraries:
 2. **Run the training pipeline** to train and evaluate models.
 3. **Deploy the trained model** (`best_model.pkl`) for predictions.
 
-## License
-
-This project is open-source and available for modification.
-```
-
-Let me know if you need any changes! 🚀
